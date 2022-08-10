@@ -1,0 +1,10 @@
+.headerDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    height: 80px;
+    font-size: 24px;
+    color:white;
+    background-color: #009999;
+    margin-bottom: 15px;
+}

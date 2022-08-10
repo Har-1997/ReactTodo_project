@@ -1,0 +1,10 @@
+.addColTodo{
+    display: flex;
+    margin-bottom: 25px;
+}
+.inpForm{
+    margin-top: 7px;
+} 
+.btnAdd{
+    margin-left: 15px;
+}
